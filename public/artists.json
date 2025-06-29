@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Liam Johnson",
+    "bio": "Grammy-winning pop singer with 15+ years of global experience.",
+    "category": [
+      "Singer"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "feeRange": "$5,000 - $15,000",
+    "location": "Los Angeles, USA",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 2,
+    "name": "Sofia Martinez",
+    "bio": "Contemporary and classical ballet dancer performing worldwide.",
+    "category": [
+      "Dancer"
+    ],
+    "languages": [
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "feeRange": "$3,000 - $10,000",
+    "location": "Barcelona, Spain",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 3,
+    "name": "Ethan Brooks",
+    "bio": "Stand-up comedian known for witty social commentary and corporate gigs.",
+    "category": [
+      "Speaker",
+      "Comedian"
+    ],
+    "languages": [
+      "English"
+    ],
+    "feeRange": "$4,000 - $9,000",
+    "location": "London, UK",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 4,
+    "name": "Mia Chen",
+    "bio": "International DJ specializing in EDM and house music.",
+    "category": [
+      "DJ"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "feeRange": "$7,000 - $20,000",
+    "location": "Shanghai, China",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 5,
+    "name": "Oliver Schmidt",
+    "bio": "Magician and illusionist with interactive stage performances worldwide.",
+    "category": [
+      "Magician"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "feeRange": "$2,500 - $8,000",
+    "location": "Berlin, Germany",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 6,
+    "name": "Isabella Rossi",
+    "bio": "Versatile singer and band performer with a powerful voice.",
+    "category": [
+      "Singer",
+      "Band"
+    ],
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "feeRange": "$5,500 - $12,000",
+    "location": "Rome, Italy",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 7,
+    "name": "The Groove Collective",
+    "bio": "Energetic band performing jazz, pop, and funk for international events.",
+    "category": [
+      "Band"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "feeRange": "$8,000 - $25,000",
+    "location": "New York, USA",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 8,
+    "name": "Emma Dubois",
+    "bio": "Contemporary dancer and choreographer with a flair for storytelling.",
+    "category": [
+      "Dancer"
+    ],
+    "languages": [
+      "French",
+      "English"
+    ],
+    "feeRange": "$3,500 - $9,000",
+    "location": "Paris, France",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 9,
+    "name": "Noah Patel",
+    "bio": "Motivational speaker and leadership coach for international corporations.",
+    "category": [
+      "Speaker"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "feeRange": "$4,500 - $12,000",
+    "location": "Toronto, Canada",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 10,
+    "name": "DJ Aurora",
+    "bio": "Top EDM and house DJ with residencies in major global clubs.",
+    "category": [
+      "DJ"
+    ],
+    "languages": [
+      "English",
+      "Swedish"
+    ],
+    "feeRange": "$7,000 - $18,000",
+    "location": "Stockholm, Sweden",
+    "image": "/default-artist.png"
+  }
+]
